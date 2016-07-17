@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Integral diamond ]]></title>
+        <description><![CDATA[Integral diamond ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Jul 2016 17:24:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Just store]]></title>
+            <description><![CDATA[<article><h1>Just store</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb13057b7f261d6d8ba8c13f4e1cdc4292f6a021.jpg"></article>]]></description>
+            <link>https://www.amway.com/YButInCorp</link>
+            <guid isPermaLink="false">70087950-6803-411a-bd95-87d31d2adb8c</guid>
+            <pubDate>Sun, 17 Jul 2016 17:24:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
